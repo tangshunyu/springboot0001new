@@ -10,6 +10,10 @@ public class Springboot000001Application {
         System.out.println("helloworld");
         System.out.println("helloworld");
         System.out.println("helloworld");
+        System.out.println("helloworld");
+        System.out.println("helloworld");
+        System.out.println("helloworld");
+        System.out.println("helloworld");
         SpringApplication.run(Springboot000001Application.class, args);
     }
 
